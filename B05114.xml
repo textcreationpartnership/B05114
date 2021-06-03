@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflexions on two late letters concerning the affairs of the city of Glasgow: by a citizen thereof, in answer to his friend at Edinburgh, who desired an impartial account of that matter.</title>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05114</idno><idno type="EEBO-CITATION">52614878</idno>
+  <idno type="VID">176031</idno>
+  <idno type="EEBO-PROQUEST">2240859065</idno>
+  
+            <idno type="STC">Wing R712A</idno>
+            <idno type="STC">ESTC R182554</idno>
+            <idno type="OCLC">52614878</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176031)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflexions on two late letters concerning the affairs of the city of Glasgow: by a citizen thereof, in answer to his friend at Edinburgh, who desired an impartial account of that matter.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Glasgow? :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Place and date of publication suggested by National Library of Scotland.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Glasgow (Scotland) --  History --  17th century --  Sources.</term>
+               <term type="geographic_name">Glasgow (Scotland) --  Appropriations and expenditures --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:176031:1"/>
+            <head>
+               <hi>REFLEXIONS</hi> On two late Letters concerning the Affairs of the City of <hi>Glasgow: By a Citizen thereof,</hi> In <hi>ANSWER</hi> to his Friend at <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> who desired an <hi>Impartial Account</hi> of that Matter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU write, that you discommend, on the <hi>one Hand,</hi> the Condescention in subjecting the Towns Accompts to <hi>privat Men:</hi> tho indeed it is the clearest evidence that the Magistracy thought the same <hi>Prooff</hi> against the <hi>nicest Cavill:</hi> And on the <hi>other Hand,</hi> you tell me how it's obvious enough to your self; that the Author who pretends to <hi>Animadvert</hi> on them, shifts the <hi>chief matter,</hi> and seems <hi>glad of the opportunity</hi> of diverting to the writing a <hi>Satyre against</hi> Dovehill; At the reading whereof you were quite amazed, considering not only that Gentlemans <hi>Character</hi> amongst <hi>good Men</hi> in the Na<g ref="char:EOLhyphen"/>tion, but likeways, that in your converse <hi>here,</hi> you never found even those who would have the Government go in <hi>another Chanel</hi> then it has been since the <hi>Revolution,</hi> traduce him in <hi>such manner.</hi>
+            </p>
+            <p>You say, That for retriveing your Thoughts, you took a second survey of that Letter, and then soon perceived that it <hi>proved its self</hi> to be a very <hi>despi<g ref="char:EOLhyphen"/>cable Paper,</hi> which no man of Sense could credite: seing it hath manifold <hi>inconsistencies</hi> in its <hi>own</hi> bosom. Yet for your clearance in some <hi>matters of
+<pb n="2" facs="tcp:176031:2"/> Fact,</hi> you asked <hi>Dovehill</hi> himself: but he, in a very generous and Christian temper, having told that he would <hi>detract from none,</hi> but <hi>leave his Integrity to be vindicat by the success, which Truth obtains over Calumny, in Providence:</hi> Only, he was sure that the <hi>body of the Inhabitants of</hi> Glasgow <hi>knew the contrary of these Aspersions:</hi> and that he <hi>no ways charged them even on the Gentlemen who would have a change made of the Administrators:</hi> whence, you are neces<g ref="char:EOLhyphen"/>sitate to inquire at me the <hi>true state</hi> of the Case.</p>
+            <p>In answer whereunto, you cannot expect that I should follow the <hi>confuse<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Ramble</hi> of that Letter; which would make mine too long. Nor are you to think that it contains the Sentiments <hi>of the City:</hi> for I assure you, the Writers <hi>assuming</hi> their <hi>Name,</hi> for gaining some countenance to his <hi>Imposture,</hi> is a meer Forgery. Neither are you to be amused with the Author's <hi>Cenfidence</hi> in what he vouches: for (besides what you have observed of his <hi>contradicting</hi> himself, and the many <hi>Falshoods</hi> of which I shall convict him hereafter) he is a <hi>Deist,</hi> if the person suspected be not mistaken; and consequently of that Gang whose <hi>Testimony</hi> against a <hi>Christian</hi> is no more to be received then that of the <hi>Devil;</hi> the inveterat enemy of all <hi>good men</hi> and <hi>goodness.</hi>
+            </p>
+            <p>This last leads me to point unto you the probable <hi>source</hi> of the desperate <hi>malice</hi> which is conspicuous in every Paragraph of this Letter. For you know that the Inhabitants of <hi>Glasgow,</hi> being left to <hi>a free Pole</hi> at the happy Revo<g ref="char:EOLhyphen"/>lution, while <hi>Dovehill</hi> was <hi>out of the Kingdom,</hi> yet such was his reputation both of <hi>sufficiency</hi> and <hi>integrity,</hi> that, tho he was thus absent, the <hi>Pole</hi> elected him unanimously Commissioner to the <hi>Convention of the Estates:</hi> and, there<g ref="char:EOLhyphen"/>after the Town Council <hi>chosen by the Pole,</hi> did likeways, when he was absent, elect him to be Provost.</p>
+            <p>According to expectation, tho he found the Towns Affairs in a desponden<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> State, yet his conduct and diligence, in conjunction with others in the Go<g ref="char:EOLhyphen"/>vernment, have in good measure retrived them: By procuring the Royal Gift for their <hi>free Election:</hi> by paying so <hi>great Sums</hi> of their Debts: by ob<g ref="char:EOLhyphen"/>taining the Grant of <hi>Two Pennies</hi> in the Pint: by indefatigable Pains about setting their <hi>Business in order;</hi> particularly by keeping <hi>a Book</hi> of Charge and Discharge, extracted from the authentick Thesaurers Accompts and Acts of Council of every Provost's time and mannadgement, and <hi>stating the Ballance</hi> each two year, which made them know whether they were Sinking or Swim<g ref="char:EOLhyphen"/>ing, the want whereof was one great occasion of the Confusion before, <hi>&amp;c.</hi> besides particular <hi>Services</hi> for the profite of the Inhabitants.</p>
+            <p>As a further evidence, and that after <hi>trial,</hi> of the Cities consciousness of <hi>Dovehill</hi>'s <hi>merit,</hi> the Council <hi>elected by the Pole,</hi> alledging former <hi>Precedents,</hi> and that they had <hi>no Sett</hi> to the contrary, pressed him to continue, by a Re-election, after the two first years of his being Provost: but he would not
+<pb n="3" facs="tcp:176031:2"/>
+               <hi>suffer</hi> himself so much as to be put in the <hi>Leet;</hi> whereupon Provost <hi>Peadie</hi> (a most deserving person) was prevailed with, tho struggling much against it, (for it can be no satisfaction and pleasure for any to engage himself in a place where he must constantly wrestle with a burden of Debts and other heavy Im<g ref="char:EOLhyphen"/>positions) to accept: and after his two years were elapsed, he likeways declin<g ref="char:EOLhyphen"/>ing to continue longer, <hi>Dovehill</hi> was urged to succeed. But <hi>Dovehill</hi> of new gave his <hi>Reasons</hi> for refusing, and when he could not prevail, he withdrew from the Council and went Home, protesting that he would not accept tho he were named; whereupon Provost <hi>Naper</hi> was chosen, a person of great In<g ref="char:EOLhyphen"/>tegrity and Ingenuity, who continued other two years: so that these <hi>four years</hi> interveend before <hi>Dovehill</hi>'s last accession to the place. In all which it's to be observed, that the Council all this time is so far from being <hi>Dovehill's Sett,</hi> (as the Letter impudently calls them) that they are the <hi>same persons</hi> who were chosen <hi>by the Pole,</hi> for the Letter it self does not alledge that there are any more changed then <hi>five,</hi> and as I have heard <hi>Dovehill</hi> commend these as very ho<g ref="char:EOLhyphen"/>nest men, so of these <hi>five,</hi> there are but two of them which were elected by the <hi>Pole.</hi>
+            </p>
+            <p>You may see already from the quality of the <hi>Author</hi> of this defamatory Libel; from the <hi>thing it self,</hi> which is the best prooff; and from the <hi>sense of the Community,</hi> that <hi>Dovehill</hi> is unjustly arraigned. But in the <hi>fourth</hi> place, I shall now proceed to condescend on some of many <hi>particulars,</hi> wherein the Writer of the Letter makes down-right <hi>Lyes,</hi> or publishes to the World noto<g ref="char:EOLhyphen"/>rious <hi>Inconsistencies:</hi> whence you may conjecture how he is to be believed as to <hi>the rest,</hi> viz.</p>
+            <p n="1">1. 'He asserts that <hi>Dovehill</hi> keeps the Charter such a <hi>secret,</hi> as that to this Hour it has not been so much as entered in the Town-Records. Whereas it is <hi>verbatim</hi> insert therein, upon the 11th of <hi>August</hi> 1690: And the publick <hi>Act of Parliament,</hi> ratifying and containing the tenor of it, which goes in Print through the Nation, makes it an odd kind of <hi>secret</hi> with a Witnes.</p>
+            <p n="2">2. In several places of this Libel, he avers that there is <hi>a Sett</hi> of the Burgh, for making men believe that plain <hi>Rules</hi> are contraveened. Whereas there never was, nor is any such <hi>Sett,</hi> as to the Election of <hi>Magistrats,</hi> but the same is regulate meerly by the <hi>Custom</hi> of the Burgh, which has been precisely observed ever since the Revolution by these persons who were elected by the whole Inhabitants in their <hi>Pole</hi> above-narrated.</p>
+            <p n="3">3. He affirms that the Town was Stented for the Money payed in to the <hi>Affrican Company:</hi> being probably difficulted to find <hi>plausible Names</hi> for Stents, whereas this is a down-right untruth: For that Money was borrowed con<g ref="char:EOLhyphen"/>form to the power allowed by the Act of Parliament, &amp; lyes yet as Debt upon the Town.</p>
+            <p n="4">
+               <pb n="4" facs="tcp:176031:3"/>4. He says <hi>p.</hi> 8. That <hi>Dove-hill</hi> wrote a Letter to Provost <hi>Peadie,</hi> declaring <q rend="margQuotes">his being obnoxious to several eminent Persons, and that the Town had re<g ref="char:EOLhyphen"/>ceived prejudice on his account, <hi>&amp;c.</hi> of design that another whom he might <hi>load,</hi> might be sent Commissioner to the Burrows 1699.</q> Whereas there could not be a grosser misrepresentation: And it's so far against Sense, that the <hi>very telling of it</hi> does confute it.</p>
+            <p>It's true indeed, <hi>Dove-hill</hi> did Write a Letter desiring not to be chosen, be<g ref="char:EOLhyphen"/>cause he had been so long from home, attending his <hi>management at</hi> Edinburgh, in <hi>May</hi> and <hi>June:</hi> But it is strange how it could enter in the Writers Head to Forge such a Narrative, as may bring in <hi>Dove-hill</hi> acknowledging his <hi>own guilt:</hi> And forsooth it must be added that he traduced others, whom not<g ref="char:EOLhyphen"/>withstanding, he acknowledges to have done all that was possible for them to award the Towns further burden.</p>
+            <p n="5">5. The Libeller pretends <q rend="margQuotes">that there is 126700 <hi>lib.</hi> most disingenuously supprest, or at least omitted, in <hi>Dove-hills</hi> Printed account;</q> whereas all that is <hi>true</hi> in this List is fairly stated and compted for in the Books, and is virtu<g ref="char:EOLhyphen"/>ally <hi>included</hi> in the Printed Account. But the alledgance is a <hi>plausible de<g ref="char:EOLhyphen"/>lusion.</hi>
+            </p>
+            <p>For clearing whereof, it is to be considered in the first place, that there is only Printed the several <hi>Ballances</hi> Extracted out of the foresaid Book of Charge and Discharge: But the particular <hi>Accounts</hi> of which, these Ballances are made up, conform to the several Acts of Council, and Thesauries Accounts warranting the same, are not mentioned in the Print: As indeed that would have made it Volumnious, the Ballances of every two years Compts made up of these particulars being on<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Printed, as said is. And in the next place, as to parti<g ref="char:EOLhyphen"/>culars themselves; The <hi>first</hi> Article stated by him at 36700 <hi>lib.</hi> or thereby, if he means the Burrow-missive-dues, these extend only to 13200 <hi>lib.</hi> And as to deficiencies, notwithstanding all that has been laid on for making up other former deficient Stents, it has been, and can still be made appear, that the Town of <hi>Glasgow</hi> has lost above 500 <hi>lib. sterling, by what</hi> they have payed out for Cess and Missive dues, more than they have got in by those Stents. As to the second, of 16000 <hi>lib.</hi> gained by the Excise, the same, with all the other Ar<g ref="char:EOLhyphen"/>ticles, are fairly counted for, and are a part of the 30000 <hi>lib.</hi> of Debt payed the first two years of <hi>Dove-hills</hi> management, it being well known that the Towns Revenue cannot pay a six pence of Debt, being insufficient to pay the Towns Annualrents; whence it tannot spare any thing even to support the Government. But as to the fourth Article of 6000 <hi>lib.</hi> on account of a Tack of Excise from Mr. <hi>John Cochran,</hi> it extends only to 3626 <hi>lib.</hi> Out of which was payed to the said Mr. <hi>John,</hi> as owing to him 2600 <hi>lib.</hi> So that there was only got of free Money 1026 <hi>lib.</hi> as the Accompt Folio 32 does instruct; and
+<pb n="5" facs="tcp:176031:3"/> the Revisers cannot but acknowledge that both this, and all the other true Ar<g ref="char:EOLhyphen"/>ticles are fairly counted for, and if they should refuse it, (as I'm sure they will not) the Compts themselves will make it appear, and if need be may be seen to any who desire it.</p>
+            <p>Neither ought it to be objected that <hi>Dove-hill</hi> was Provost and <hi>Book-keeper.</hi> For, as the keeping a regular <hi>Book</hi> is a great service in the Towns business, that they may to purpose know the increase and decrease of their Debts, and can be only done by a person of Judgment, and known in Business: So this is no more than a <hi>Copy,</hi> for orders sake, being founded upon the several Acts of Council, and several Thesaurers Accompts cleared from time to time by the Town Council, to which the same <hi>relates,</hi> and which <hi>consequently Dove-hill</hi> could neither eik nor pare in <hi>one Article,</hi> nor change from one Provosts time to another.</p>
+            <p n="6">6. The Letter quite misrepresents the state of the Revising of the Books.</p>
+            <p>For, when <hi>Dove-hill</hi> was <hi>present;</hi> the Town Council having appointed the two Houses of Merchants and Trades to choise six of each <hi>to Revise the Books, and Report</hi> (tho there was never a former Precedent of such a condescension) all the Books, alse well the <hi>general</hi> Records of the Town, and the Town <hi>Thesaurer's</hi> Books, and the particular Accounts to which these relate, <hi>as well</hi> as those Books <hi>keep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by Dove-hill,</hi> were fairly exposed to their censure. Nei<g ref="char:EOLhyphen"/>ther were any Records which they required keeped back, as all the Revisers must acknowledge. And after their first Meeting, they Adjourned themselves from time to time, and sat alse long at each time as they thought fit; and made what remarks they pleased, being no ways stinted in any manner whatsom<g ref="char:EOLhyphen"/>ever. After conclusion whereof, it being desired that their remarks might <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e exposed; one of the Revisers, who took observes, and having read <hi>all</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>he Articles, most narrowly inspected <hi>every one</hi> of them, <hi>answered,</hi> that he <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd the rest should meet amongst themselves; and having conserted their ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erves, make report to the two Houses. But to this hour they could never <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e prevailed with to do it. The plain Reason whereof does <hi>thence</hi> appear to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, that they found, contrary perhaps to their expectation, that all had been <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aithfully managed: (as severals of them, of good <hi>note,</hi> have acknowledged <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n all occasions, since that Inspection) and that if they had made a report, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ither in Writ, or <hi>viva voce,</hi> they could have quarrelled nothing, but what <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ight have been instantly removed, and the Article instructed. And those <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ho obstruct it, can no ways justifie themselves in their not making a report <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the Houses, if not in Writ, yet by Word; for they are expresly oblidged <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it by their Commission from the Houses.</p>
+            <p n="7">7 The Leter alledges, that <hi>Dove-hill</hi> made the payment of Debt to be during <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>his being Provost, <hi>particularly</hi> 1100 <hi>lib.</hi> whereas it was during the time of
+<pb n="6" facs="tcp:176031:4"/>
+'<hi>another.</hi> But this is not only false, but likewise impossible in Fact; for every Provost, having Thesaurers in his time, whose Accounts are cleared in face of Magistrats and Town Council, their Accounts could <hi>not be altered</hi> from one Provost's time to another. And what <hi>Dove-hill</hi> affirms, is contained in Thesaurers <hi>Peter's, Buchannan, Muirhead,</hi> and <hi>Dickies</hi> Accounts, who were all Thesaurers during the time of his being Prouost. And the alledgance a<g ref="char:EOLhyphen"/>nent the 1100 <hi>lib.</hi> is utterly calumnious, as appears by the Books.</p>
+            <p>But this derogats nothing from Provost <hi>Pead<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> or Provost <hi>Napier:</hi> For I know that <hi>Dove-hill</hi> is more ready than the Writer, to vindicate their inte<g ref="char:EOLhyphen"/>grity, and <hi>other</hi> good Services to the Town, as having better experience there<g ref="char:EOLhyphen"/>of. It having only so happened from circumstances, that this Debt was pay<g ref="char:EOLhyphen"/>ed in <hi>Dove-hills</hi> time; whom I have heard solemnly offer, that if the Writer, or any other, could make appear, that ever he intrometted with a Six pence of the Towns Money, not counted for, he shall make every Penny a Pound <hi>Sterling.</hi>
+            </p>
+            <p n="8">
+               <q rend="margQuotes">8. The Print proceeds to tell Non-sense; that <hi>Dove-hill</hi> does over-bur<g ref="char:EOLhyphen"/>burden the Town with <hi>Stents:</hi>
+               </q> Whereas, in the first place, this is <hi>impos<g ref="char:EOLhyphen"/>sible,</hi> it not being in <hi>his power,</hi> he having but a Vote, when he is Provost; and that only when it comes to it: which it never did in the matter of Stents. And, in the next place, I have heard <hi>Dove hill</hi> regrate more than any, that there should be so many Burdens on the Town, whereof the Magistracy, and particularly <hi>Dove-hill</hi> himself bear their <hi>full share.</hi>
+            </p>
+            <p>However, it is certain that what-ever is imposed, is <hi>fairly and legally</hi> done by the Magistrats and Town Council, remitting the same to Sworn Stent-ma<g ref="char:EOLhyphen"/>sters, with instructions; who subdivide the same: And that alse <hi>sparingly</hi> as the <hi>necessities</hi> of their Affairs can possibly allow.</p>
+            <p n="9">
+               <q rend="margQuotes">9. The Libeller <hi>draws in</hi> over-head, mention of Major <hi>Menzies,</hi> that he might have occasion to alledge, the Major might have been taken alive.</q> But as the Article of this expence <hi>was long since</hi> payed, and could not be contain<g ref="char:EOLhyphen"/>ed in the Printed State, which contains only the <hi>la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge Ballances:</hi> So it is an impudent Arraigning, not only the Town, but likeways the Assize and Ju<g ref="char:EOLhyphen"/>stice-Court, who assoilzied <hi>Dove-hill</hi> and the rest: And it is certain that he was at a considerable distance by the door of the Garden, when that misfor<g ref="char:EOLhyphen"/>tune necessarly fell out; as appears by the extant Probation thereof.</p>
+            <p n="10">10. He charges <hi>Dovehill</hi> with singular Practices in relation to <hi>Elections,</hi> which are utterly <hi>falsc,</hi> or <hi>disguised,</hi> as appears by the Particulars following: The Town-Council then being meet to elect their Magistrats, the first <hi>Tuesda<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> after <hi>Michaelmass,</hi> to wit, their Provost and three Baillies only; upon the <hi>Friday</hi> thereafter, the Magistrats newly elected, with the Magistrats of the two preceding years, making up in all Twelve, (and if any be dead or absent
+<pb n="7" facs="tcp:176031:4"/> one is chosen of the Town-Council of the same quality to make the foresaid number of Twelve,) meet and do choose their new Council for the year fol<g ref="char:EOLhyphen"/>lowing. There is in effect no Council or Counsellors, except the new elected Magistrats, betwixt the <hi>Tuesday</hi> and the <hi>Friday,</hi> that a new Council for the ensuing Year is elected by the foresaid Twelve Electors. So that it's false that <hi>John Leckie</hi> could not be turned out, for there is no such <hi>Sett,</hi> and <hi>de facto,</hi> the Year immediatly before, when he had been one Year Dean of Gild, he was turned off the Council, and was again brought on the second Year to be Dean of Gild, by vertue of which Office he came to be a Counsellor, by which means at the Election of the Council the Year thereafter there came to be One Counsellor more then by the Custom they ought to have, so that of necessity one behoved to be laid aside, and <hi>John Leckie</hi> &amp; <hi>John Spreul</hi> being Listed together, the Electors laid by their Votes <hi>John Spreul</hi> aside. The Dean of Gild and other Officers are not elected till the <hi>Wednesday</hi> the next Week after; and the constant custom of Electing the Magistrats, Counsellors, and other Offi<g ref="char:EOLhyphen"/>cers, have been inviolably observed, without variation, ever since the happy Revolution, as the Town Council-Books will make appear.</p>
+            <p n="11">11. You may observe, that this Writer turns himself into such shapes, as serve his purpose: without any respect to <hi>truth.</hi>
+            </p>
+            <p>For instance, he, when it serves his turn, advances that <hi>Dove-hill</hi> can do <hi>all</hi> in the Town Council; and yet he would Artfully deny him the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>onour of allowing inspection of the Accounts to the Committee of the two Houses: Tho' <hi>Dove-hill</hi> was present then, alse well as at other occasions.</p>
+            <p n="12">12. I intreat you to observe how this Libeller would <hi>load,</hi> and yet either wants the <hi>memory</hi> or <hi>wit,</hi> to do it without <hi>inconsistency:</hi> as your self has <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>inted. Which I do mention only to clear further, that he <hi>Rambles,</hi> with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ut regarding whether right or wrong?</p>
+            <p>'<hi>Page</hi> 11. He asserts that <hi>had</hi> Dove-hill <hi>given full and free inspection of his Books, it were an easie matter to co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fute his sham Account,</hi> and <hi>demonstrat</hi> that it was calculat only for a new Trick, <hi>&amp;c.</hi> Now, how is it <hi>possible</hi> for <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Libeller to <hi>know</hi> that it's easie, he <hi>knows not what?</hi> And how is it possible <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>or him to know a <hi>demonstration,</hi> without <hi>knowledge of the matter</hi> by which <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>'s to be made?</p>
+            <p>'So <hi>Page</hi> 13. He says, that <hi>many concealed particulars amount to a great Sun, and can easily be made appear,</hi> if <hi>Dove-hill</hi> could be prevailed with to allow the Inhabitants to inspect his Books more narrowly, <hi>&amp;c.</hi> But how <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n the Scribler <hi>know</hi> what is <hi>concealed?</hi> And how can he <hi>see</hi> with any certain<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, <hi>further than he is allowed?</hi>
+            </p>
+            <p>And to Crown, or rather make Feazible all that he does advance, so that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> may be imputed allanerly to <hi>Dove-hill,</hi> He expresly asserts, <hi>p.</hi> 12. '<hi>That <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he Council were all of</hi> Dove-hill's <hi>own choosing.</hi> Which, as it is non-sense,
+<pb n="8" facs="tcp:176031:5"/>
+               <hi>Dove-hill</hi> having but one Vote, even when he happens to be an Elector: S<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it appears by what is premised, that the <hi>same persons</hi> (except a few) are Coun<g ref="char:EOLhyphen"/>sellors, who were <hi>chosen</hi> to be such <hi>by the Pole</hi> of the City.</p>
+            <p>On the whole, what else is interspersed in this scurrilous Pamphlet, of Ve<g ref="char:EOLunhyphen"/>nom against <hi>Dove-hill,</hi> se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves only to <hi>discover</hi> the Author by his <hi>reviling</hi> no<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to be a <hi>Christian,</hi> by his <hi>lies</hi> not to be a <hi>Gentleman,</hi> by his <hi>scolding</hi> not to be a person of <hi>breeding;</hi> and by his <hi>abusing</hi> a Magistracy in such an insolent Print to deserve (at least) the <gap reason="blank" extent="1+ words">
+                  <desc> _____ </desc>
+               </gap> So that I shall not detain you any longer with particular Answers thereunto, especially considering that I a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> sure, tho' I have proceeded hitherto out of zeal to <hi>innocence,</hi> for the <hi>Public<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Interest</hi> of the City, and in obedience to your <hi>Request;</hi> yet <hi>Dove-hill,</hi> if h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> come to discover what I have done, will reprehend me for taking so muc<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> notice of <hi>such Stuff.</hi> And as to the <hi>Author,</hi> I have heard him say plainly, h<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> knew not <hi>who</hi> it was?</p>
+            <p>I know <hi>Dove-hill</hi> to be a person of such <hi>Religion</hi> and <hi>Sense,</hi> that he con<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ders no more in this matter, than that the <hi>best</hi> Men have been <hi>most</hi> Tra<g ref="char:EOLunhyphen"/>duced by <hi>Designers,</hi> who have <hi>no Principle</hi> to withhold them: and will<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ready to conclude with <hi>David, They compassed me about with words of hatred and fought against me without a cause: For my love they are my adversaries; b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> I give my self unto Prayer,</hi> Psalm 109. vers. 3, 4. Yet this could not hinder m<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> on your desire, to set the matter somewhat in its true light.</p>
+            <closer>
+               <signed>I am with all possible Respect,</signed>
+               <salute>
+                  <hi>Sir,</hi>
+               </salute>
+               <signed>
+                  <hi>Your most humble Servant.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
